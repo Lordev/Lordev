@@ -3,12 +3,12 @@
 ###
 
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=lordev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lordev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false" height="150" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=lordev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false" height="150" width="auto" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lordev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false" height="150" width="auto" alt="languages graph" />
 </div>
 
 <div align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lordev&theme=nord" alt="GitHub streak stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lordev&theme=nord" height="150" width="auto" alt="GitHub streak stats" />
 </div>
 
 ###
@@ -34,16 +34,16 @@
 <div align="left">
     <h3>Current Projects</h3>
     <ul>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="14" alt="nextjs logo" /> Working on my portfolio website with Next.js and soon to be implemented payload CMS, featuring smooth animations</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="14" width="14" alt="nextjs logo" /> Working on my portfolio website with Next.js and soon to be implemented payload CMS, featuring smooth animations</li>
     </ul>
 </div>
 
 ###
-   <h3>Currently Exploring</h3>
-    <ul>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="14" alt="nextjs logo" /> Advanced Next.js features</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="14" alt="figma logo" /> UI/UX design principles</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="14" alt="threejs logo" /> Advanced 3D animations</li>
-    </ul>
+<h3>Currently Exploring</h3>
+<ul>
+    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="14" width="14" alt="nextjs logo" /> Advanced Next.js features</li>
+    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="14" width="14" alt="figma logo" /> UI/UX design principles</li>
+    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="14" width="14" alt="threejs logo" /> Advanced 3D animations</li>
+</ul>
 
 ###
