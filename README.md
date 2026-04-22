@@ -1,17 +1,15 @@
-<div align="center">
-
 # Lorenzo Sallons
 Fullstack developer building AI-integrated products.  
 Based in Rotterdam, NL.
 
-</div>
+Interested in AI, music production, and shipping things that work.
 
 ---
 
 **Currently Building**
 
 - 🎵 Music reference analyzer - audio feature extraction, mix comparison, AI-powered feedback *(in progress)*
-- 📝 [InspireDay](https://github.com/lordev/inspireday) - AI journaling platform, Laravel + FastAPI + OpenAI
+- 📝 [InspireDay](https://github.com/lordev/inspire-day-app) - AI journaling platform, Laravel + FastAPI + OpenAI
 
 ---
 
@@ -27,8 +25,6 @@ DevOps       Docker · Git · CI/CD
 
 ---
 
-<div align="center">
+**Find me**
 
 [lordev.me](https://lordev.me) · [info@lordev.me](mailto:info@lordev.me)
-
-</div>
