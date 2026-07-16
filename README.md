@@ -8,7 +8,7 @@ Interested in AI, music production, and shipping things that work.
 
 **Currently Building**
 
-- 🎵 Music reference analyzer - audio feature extraction, mix comparison, AI-powered feedback *(in progress)*
+- 🎵 [Souncery](https://www.souncery.com/) - Audio feature extraction, mix comparison, AI-powered feedback
 - 📝 [InspireDay](https://github.com/lordev/inspire-day-app) - AI journaling platform, Laravel + FastAPI + OpenAI
 
 ---
