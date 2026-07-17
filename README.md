@@ -19,7 +19,7 @@ Interested in AI, music production, and shipping things that work.
 Language     TypeScript · Python · PHP
 Frontend     React · Next.js · Framer Motion · Three.js · Tailwind
 Backend      Node.js · Laravel · FastAPI
-AI/ML        OpenAI API · LangChain · RAG · Prompt Engineering · LLM Evaluation
+AI/ML        LangChain · RAG · Prompt Engineering · LLM Evaluation
 DevOps       Docker · Git · CI/CD
 ```
 
