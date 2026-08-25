@@ -1,4 +1,4 @@
-# Lorenzo Sallons
+me# Lorenzo Sallons
 Fullstack developer building AI-integrated products.  
 Based in Rotterdam, NL.
 
@@ -27,4 +27,4 @@ DevOps       Docker · Git · CI/CD
 
 **Find me**
 
-[lordev.me](https://lordev.me) · [info@lordev.me](mailto:info@lordev.net)
+[lordev.me](https://lordev.net) · [info@lordev.me](mailto:info@lordev.net)
