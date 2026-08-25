@@ -27,4 +27,4 @@ DevOps       Docker · Git · CI/CD
 
 **Find me**
 
-[lordev.me](https://lordev.me) · [info@lordev.me](mailto:info@lordev.me)
+[lordev.me](https://lordev.me) · [info@lordev.me](mailto:info@lordev.net)
