@@ -1,4 +1,4 @@
-me# Lorenzo Sallons
+Lorenzo Sallons
 Fullstack developer building AI-integrated products.  
 Based in Rotterdam, NL.
 
